@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWpqIUK0zEdR1m7Eprs8KxDb4+Dt5aMCNdxtwuVrTC779BZdfsXWPNEe42Di28NCJxva0pmnqhFwS/LyA/l+yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soura\\source\\repos\\TestProject1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soura\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\selenium.webdriver.chromedriver\\125.0.6422.14100\\selenium.webdriver.chromedriver.125.0.6422.14100.nupkg.sha512",
+    "C:\\Users\\soura\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
