@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soura\\source\\repos\\StudentForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|c:\\users\\soura\\source\\repos\\studentform\\studentform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|c:\\users\\soura\\source\\repos\\studentform\\studentform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|c:\\users\\soura\\source\\repos\\studentform\\studentform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|c:\\users\\soura\\source\\repos\\studentform\\studentform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{521E9640-2564-4E97-81E1-5B7A5B33399B}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Program.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Program.cs",
+              "ToolTip": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Program.cs",
+              "RelativeToolTip": "StudentForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:13:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentForm\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\appsettings.Development.json",
+              "RelativeToolTip": "StudentForm\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T19:11:05.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentForm\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:09:02.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\soura\\source\\repos\\StudentForm\\StudentForm\\Models\\Student.cs",
+              "RelativeToolTip": "StudentForm\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:07:50.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
